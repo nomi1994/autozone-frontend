@@ -110,7 +110,7 @@ export default function BottomHeader() {
 
   return (
     <Box>
-      <AppBar position="static" color='default' style={{ padding: 0}}>
+      <AppBar position="static" sx={{boxShadow : 1}} color='default' style={{ padding: 0}}>
         <Toolbar>
           <MenuSection></MenuSection>
           <SearchSection></SearchSection>
