@@ -1,0 +1,12 @@
+.cstmslide .react-multi-carousel-item{
+    padding: 0rem 0.3rem;
+    margin: 1rem 0rem;
+}
+
+.box {
+transition: transform 0.3s ease;
+}
+
+.box:hover {
+transform: scale(1.05); /* Adjust the scale factor as needed */
+}
